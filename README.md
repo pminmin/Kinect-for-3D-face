@@ -12,6 +12,7 @@
 * 拿到面部深度数据后，首先探究Kinect SDK提供的面型顶点是否可以加以利用来刻画出一个面部面型，若不能，就采取小组自己的标点方案；
 * 进一步研读相关论文，利用3D数据实现人脸识别；
 * (可选)做微表情，在已有的面部接口上寻找其他的面部参数；
+
 ## 相关资源
-  * [台湾大牛Heresy写的Kinect二代系列文章](https://kheresy.wordpress.com/kinect-for-windows-v2-cpp-index/ "悬停显示")
+  * [台湾大牛Heresy写的Kinect二代系列文章](https://kheresy.wordpress.com/kinect-for-windows-v2-cpp-index/ )
   * [在校生的Kinect二代博客](http://blog.csdn.net/dustpg/article/category/2408183)
