@@ -14,7 +14,8 @@
 * (可选)做微表情，在已有的面部接口上寻找其他的面部参数；
 
 ## 相关资源
-  * [台湾大牛Heresy写的Kinect二代系列文章](https://kheresy.wordpress.com/kinect-for-windows-v2-cpp-index/ )
-  * [在校生的Kinect二代博客](http://blog.csdn.net/dustpg/article/category/2408183)
-  * 博客里有很多demo，主要使用DirectX渲染动画
-  * [微软官方发布的一个Kinect入门视频](https://www.microsoftvirtualacademy.com/zh-cn/training-courses/-kinect-for-windows-v2--8743?l=15BQDzV1_4504984382)
+  * [台湾大牛Heresy写的Kinect二代系列文章](https://kheresy.wordpress.com/kinect-for-windows-v2-cpp-index/ )；
+  * [在校生的Kinect二代博客](http://blog.csdn.net/dustpg/article/category/2408183)博客里有很多demo，主要使用DirectX渲染动画；
+  * [微软官方发布的一个Kinect入门视频](https://www.microsoftvirtualacademy.com/zh-cn/training-courses/-kinect-for-windows-v2--8743?l=15BQDzV1_4504984382)，有Kinect各大模块的介绍；
+  * [一个可用Kinect做小应用的库](http://pterneas.com/)具体还没怎么研究过
+  * [Kinect SDK官方文档介绍](https://msdn.microsoft.com/en-us/library/dn782037.aspx)
